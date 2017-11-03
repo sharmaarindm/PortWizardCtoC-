@@ -1,0 +1,4 @@
+run this program through command line using the following syntax:
+portwizard -i C_source_file_name -o C#_output_file_name
+
+ARINDM SHARMA
